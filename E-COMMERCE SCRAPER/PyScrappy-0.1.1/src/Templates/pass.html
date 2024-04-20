@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charset="UTF-8">
+    <title>pass</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body{
+            background-color: white;
+        }
+        /* CSS for first table with Flipkart logo background */
+        .table-container{
+            background-image: url('static/1.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size:contain;
+            opacity: 0.6;
+        }
+        /*table {
+            
+            width: 100%;
+            height: 100%;
+        }*/
+
+        /* CSS to ensure the table cells are well-aligned */
+        th, td {
+            text-align: left;
+            padding: 10px;
+        }
+
+        /* CSS for second table with Snapdeal logo background */
+        .table-container1{
+            background-image: url('static/2.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            opacity: 0.6;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Showing results for {{n}}:</h1>
+    <div class="container">
+        <div class="table-container">
+    <table>
+        <caption>flipkart</caption>
+        <tr>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Original price</th>
+            <th>Description</th>
+            <th>Rating</th>
+            <th>Product_link</th>
+        </tr>
+        {% for item in flipkart_result %}
+        <tr>
+            <td>{{item[0]}}</td>
+            <td>{{item[1]}}</td>
+            <td>{{item[2]}}</td>
+            <td>{{item[3]}}</td>
+            <td>{{item[4]}}</td> 
+            <td><a href="{{ item[5] }}" target="_blank">View Product</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+    </div>
+        <div class="table-container1">
+    <table>
+        <caption>snapdeal</caption>
+        <tr>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Original price</th>
+            <!--<th>Description</th>-->
+            <th>Rating</th>
+            <th>Product link</th>
+        </tr>
+        {% for item in snapdeal_result %}
+        <tr>
+            <td>{{item[0]}}</td>
+            <td>{{item[1]}}</td>
+            <td>{{item[2]}}</td>
+            <td>{{item[3]}}</td>
+            <!--<td>{{item[3]}}</td>-->
+            <td><a href="{{ item[4] }}" target="_blank">View Product</a></td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    </div>
+</div>
+    
+</body>
+</html>
