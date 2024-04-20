@@ -1,5 +1,5 @@
 # E-Commerce-Scraper
-Powerful tool to scrape E-commerce websites.
+E-Commerce Scraper is a price comparision website.It also provides other useful information regarding the products and provides link that leads the user to product page.
 
 ## PyScrappy: powerful Python data scraping toolkit
 
@@ -7,8 +7,6 @@ Powerful tool to scrape E-commerce websites.
 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![PyPI Latest Release](https://img.shields.io/pypi/v/PyScrappy.svg)](https://pypi.org/project/PyScrappy/)
-
-[![Package Status](https://img.shields.io/pypi/status/PyScrappy.svg)](https://pypi.org/project/PyScrappy/)
 [![License](https://img.shields.io/pypi/l/PyScrappy.svg)](https://github.com/akrollno21/E-Commerce-Scraper/blob/main/LICENSE)]
 ![](https://img.shields.io/pypi/dm/PyScrappy)
 
@@ -61,7 +59,7 @@ Further, general questions and discussions can also take place on GitHub in this
 
 Most development discussions take place on GitHub in this [repository](https://github.com/akrollno21/E-Commerce-Scraper).
 
-Visit the official documentation of (http://127.0.0.1:5000/static/3.pdf) or you can also visit about page for more information.
+Visit the official documentation of [E-Commerce Scraper](https://github.com/akrollno21/E-Commerce-Scraper/blob/main/E-COMMERCE%20SCRAPER/PyScrappy-0.1.1/src/static/3.pdf) or you can also visit about page for more information.
 
 Also visit the official documentation of [PyScrappy](https://pyscrappy.netlify.app/) for more information.
 
