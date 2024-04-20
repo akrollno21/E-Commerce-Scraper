@@ -9,7 +9,7 @@ Powerful tool to scrape E-commerce websites.
 [![PyPI Latest Release](https://img.shields.io/pypi/v/PyScrappy.svg)](https://pypi.org/project/PyScrappy/)
 
 [![Package Status](https://img.shields.io/pypi/status/PyScrappy.svg)](https://pypi.org/project/PyScrappy/)
-[![License](https://img.shields.io/pypi/l/PyScrappy.svg)](https://github.com/mldsveda/PyScrappy/blob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/PyScrappy.svg)][(https://github.com/akrollno21/E-Commerce-Scraper/blob/main/LICENSE)]
 ![](https://img.shields.io/pypi/dm/PyScrappy)
 
 ## What is it?
@@ -47,24 +47,26 @@ pip install PyScrappy
 
 ## License
 
-[MIT](https://github.com/mldsveda/PyScrappy/blob/main/LICENSE)
+[MIT](https://github.com/akrollno21/E-Commerce-Scraper/blob/main/LICENSE)
 
 ## Getting Help
 
 For usage questions, the best place to go to is [StackOverflow](https://stackoverflow.com/questions/tagged/pyscrappy).
-Further, general questions and discussions can also take place on GitHub in this [repository](https://github.com/mldsveda/PyScrappy).
+Further, general questions and discussions can also take place on GitHub in this [repository](https://github.com/akrollno21/E-Commerce-Scraper).
 
 ## Discussion and Development
 
-Most development discussions take place on GitHub in this [repository](https://github.com/mldsveda/PyScrappy).
+Most development discussions take place on GitHub in this [repository](https://github.com/akrollno21/E-Commerce-Scraper).
+
+Visit the official documentation of (http://127.0.0.1:5000/static/3.pdf) or you can also visit about page for more information.
 
 Also visit the official documentation of [PyScrappy](https://pyscrappy.netlify.app/) for more information.
 
-## Contributing to PyScrappy
+## Contributing to E-Commerce Scraper
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-If you are simply looking to start working with the PyScrappy codebase, navigate to the GitHub ["issues"](https://github.com/mldsveda/PyScrappy/issues) tab and start looking through interesting issues.
+If you are simply looking to start working with the  codebase, navigate to the GitHub ["issues"](https://github.com/akrollno21/E-Commerce-Scraper/issues) tab and start looking through interesting issues.
 
 ## End Notes
 
