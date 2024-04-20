@@ -9,22 +9,25 @@ Powerful tool to scrape E-commerce websites.
 [![PyPI Latest Release](https://img.shields.io/pypi/v/PyScrappy.svg)](https://pypi.org/project/PyScrappy/)
 
 [![Package Status](https://img.shields.io/pypi/status/PyScrappy.svg)](https://pypi.org/project/PyScrappy/)
-[![License](https://img.shields.io/pypi/l/PyScrappy.svg)][(https://github.com/akrollno21/E-Commerce-Scraper/blob/main/LICENSE)]
+[![License](https://img.shields.io/pypi/l/PyScrappy.svg)](https://github.com/akrollno21/E-Commerce-Scraper/blob/main/LICENSE)]
 ![](https://img.shields.io/pypi/dm/PyScrappy)
 
 ## What is it?
+
+**E-Commerce-Scraper** is a Python based e-commerce website scraper that provides a fast, flexible, and exhaustive way to scrape data from various different 
+e-commerce sources. Being an easy to use website. It aims to be the fundamental level website for scraping data from e-commerce websites. Additionally, it has the broader goal of becoming one of the best price comparision website.
 
 **PyScrappy** is a Python package that provides a fast, flexible, and exhaustive way to scrape data from various different sources. Being an
 easy and intuitive library. It aims to be the fundamental high-level building block for scraping **data** in Python. Additionally, it has the broader goal of becoming **the most powerful and flexible open source data scraping tool available**.
 
 ## Main Features
 
-Here are just a few of the things that PyScrappy does well:
-
-- Easy scraping of [**Data**](https://medium.com/analytics-vidhya/web-scraping-in-python-using-the-all-new-pyscrappy-5c136ed6906b) available on the internet
-- Returns a [**DataFrame**](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) for further analysis and research purposes.
-- Automatic [**Data Scraping**](https://medium.com/analytics-vidhya/web-scraping-in-python-using-the-all-new-pyscrappy-5c136ed6906b): Other than a few user input parameters the whole process of scraping the data is automatic.
-- Powerful, flexible
+Here are just a few of the things that E-Commerce Scraper does well:
+- Easy scraping of e-commerce websites and provide relevant information
+- Provides Original and discounted price from various e-commerce websites
+- Eay to use price comparision website
+- Provides product link that leads to the product page from respective e-commerce website
+- Provides contact services
 
 ## Where to get it
 
