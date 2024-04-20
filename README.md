@@ -1,14 +1,12 @@
 # E-Commerce-Scraper
 E-Commerce Scraper is a price comparision website.It also provides other useful information regarding the products and provides link that leads the user to product page.
 
-## PyScrappy: powerful Python data scraping toolkit
-
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![PyPI Latest Release](https://img.shields.io/pypi/v/PyScrappy.svg)](https://pypi.org/project/PyScrappy/)
 [![License](https://img.shields.io/pypi/l/PyScrappy.svg)](https://github.com/akrollno21/E-Commerce-Scraper/blob/main/LICENSE)]
-![](https://img.shields.io/pypi/dm/PyScrappy)
+
 
 ## What is it?
 
